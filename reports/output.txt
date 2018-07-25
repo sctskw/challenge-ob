@@ -1,5 +1,5 @@
 
-> oddball.io@1.0.0 reports /Users/sskow/development/oddball
+> challenge-ob@1.0.0 reports /Users/sskow/development/oddball
 > ./reports/run.js
 
 Serena Schultz 7
